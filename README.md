@@ -1,1 +1,1 @@
-# SprongCourses
+# SpringCourses
